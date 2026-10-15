@@ -1,4 +1,4 @@
-# OLiJP Madzia — MVP HTML, aktualizacja UX 8 (15.10.2026)
+# OLiJP — Baśnie i antybaśnie, MVP HTML, aktualizacja UX 8 (15.10.2026)
 
 ## Uruchomienie
 
@@ -12,7 +12,7 @@
 2. Przeczytaj prosto sformułowany problem i przykład, zobacz krótką legendę oznaczeń, a potem przejdź do pisania. Trudne pojęcia i pełne opracowania rozwijają się na żądanie.
 3. Napisz odpowiedź w **Moje prace**. Tekst jest zapisywany automatycznie, jeśli przeglądarka zezwala na pamięć lokalną.
 4. Kliknij **Gotowa do oceny**, następnie **Pobierz pracę dla nauczyciela**. Wyślij pobrany plik nauczycielowi (np. jako załącznik). Samo pobranie nie wysyła niczego.
-5. Nauczyciel wczytuje plik w swoim panelu, ocenia na podstawie faktycznej pracy, wybiera **Oceniona** lub **Do poprawy**, wpisuje uzasadnienie i wybiera **Pobierz ocenę dla Madzi**.
+5. Nauczyciel wczytuje plik w swoim panelu, ocenia na podstawie faktycznej pracy, wybiera **Oceniona** lub **Do poprawy**, wpisuje uzasadnienie i wybiera **Pobierz ocenę**.
 6. Uczennica wybiera **Wczytaj ocenę**, następnie czyta uwagi, poprawia odpowiedź i może porównać ją z wersją pierwotną. Po poprawce ponownie przekazuje pracę.
 
 **Ważne:** pobranie kopii bezpieczeństwa jest odrębne od pobrania pojedynczej pracy. Przy imporcie kopii aplikacja wyświetla ostrzeżenie przed zastąpieniem bieżących danych. Nie przesyłaj publicznie plików zawierających odpowiedzi i oceny.
