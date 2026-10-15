@@ -1,4 +1,4 @@
-# OLiJP Madzia — MVP HTML, aktualizacja UX 7 (15.10.2026)
+# OLiJP Madzia — MVP HTML, aktualizacja UX 8 (15.10.2026)
 
 ## Uruchomienie
 
@@ -9,7 +9,7 @@
 ## Jedna ścieżka pracy
 
 1. W **Dzisiaj** otwórz zagadnienie lub wróć do ostatniej pracy.
-2. Przeczytaj problem i przykład; przejdź do pisania. Wskazówki i materiały rozwijają się na żądanie.
+2. Przeczytaj prosto sformułowany problem i przykład, zobacz krótką legendę oznaczeń, a potem przejdź do pisania. Trudne pojęcia i pełne opracowania rozwijają się na żądanie.
 3. Napisz odpowiedź w **Moje prace**. Tekst jest zapisywany automatycznie, jeśli przeglądarka zezwala na pamięć lokalną.
 4. Kliknij **Gotowa do oceny**, następnie **Pobierz pracę dla nauczyciela**. Wyślij pobrany plik nauczycielowi (np. jako załącznik). Samo pobranie nie wysyła niczego.
 5. Nauczyciel wczytuje plik w swoim panelu, ocenia na podstawie faktycznej pracy, wybiera **Oceniona** lub **Do poprawy**, wpisuje uzasadnienie i wybiera **Pobierz ocenę dla Madzi**.
@@ -23,4 +23,4 @@ Zachowano istniejącą bazę treści z plików HTML: 9 zagadnień, 8 ćwiczeń i
 
 ## Testy
 
-Opis i ograniczenia w pliku `TESTY_UX7.md`.
+Wyniki i ograniczenia nowej wersji w pliku `TESTY_UX8.md`. Starszy raport znajduje się w `TESTY_UX7.md`.
